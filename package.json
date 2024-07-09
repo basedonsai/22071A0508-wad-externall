@@ -2,7 +2,7 @@
   "name": "bob-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://basedonsai.github.io/2071A0508-wad-externall",
+  "homepage": "https://basedonsai.github.io/22071A0508-wad-externall",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
