@@ -6,18 +6,18 @@ const CataloguePage = () => (
     <h1>Catalogue</h1>
     <div className="catalogue-grid">
       <div className="catalogue-item">
-        <img src="https://static.zara.net/assets/public/f1c6/e364/7b5d4daf9b30/95158d1c50cb/07545270052-p/07545270052-p.jpg?ts=1716387407922&w=563" alt="Item 1" />
+        <img src="https://assets.vogue.in/photos/5d981ab9fe373c0008956c8d/2:3/w_1600,c_limit/Mahesh%20Babu%20Vogue%20India%20October%202019%20interview%20shoot.jpg" alt="Item 1" />
         <p>Casual Wear</p>
         <button>Add to Cart</button>
       </div>
       <div className="catalogue-item">
-        <img src="https://static.zara.net/assets/public/ba58/8b46/26d74d40b1dc/840e7e873823/05755407500-a1/05755407500-a1.jpg?ts=1706111340116&w=563" alt="Item 2" />
-        <p>Cardigan</p>
+        <img src="https://d1ebi6y8mvowaj.cloudfront.net/wp-content/uploads/2022/05/mahesh_babu_may_issue_2022-104.jpg" alt="Item 2" />
+        <p>3 Piece Suit</p>
         <button>Add to Cart</button>
       </div>
       <div className="catalogue-item">
-        <img src="https://static.zara.net/assets/public/a0de/67bd/16414cfb962d/fc7224778f33/06427029401-a1/06427029401-a1.jpg?ts=1709811226066&w=563" alt="Item 3" />
-        <p>Long Knit Sweater</p>
+        <img src="https://pbs.twimg.com/media/GKIzVp0XMAEC1cZ?format=jpg&name=large" alt="Item 3" />
+        <p>Linen Wear</p>
         <button>Add to Cart</button>
       </div>
     </div>
